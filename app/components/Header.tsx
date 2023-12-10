@@ -11,7 +11,7 @@ export function Header() {
           <div className="flex items-center md:gap-x-12">
             <div className="md:flex md:gap-x-6">
               <NavLink href="/home">Home</NavLink>
-              <NavLink href="/search_cc">Search (CC)</NavLink>
+              <NavLink href="/search">Search</NavLink>
             </div>
           </div>
         </nav>

@@ -1,5 +1,5 @@
 import { cn } from "@/lib/utils"
-import { Search } from "@/app/(main)/search_cc/components/search"
+import { Search } from "@/app/(main)/search/components/search"
 import { Container } from "@/app/components/Cotainer"
 
 export default function Page() {

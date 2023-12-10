@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: "/",
-        destination: "/search_rsc",
+        destination: "/search",
         permanent: false,
       },
     ]
